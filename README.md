@@ -36,7 +36,7 @@ A **User Management System** built using **Spring Boot**, **Thymeleaf**, **MySQL
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/thrivendra1/User-Management-Application-.git
+   git clone https://github.com/velumani260591/User-Management-Application-.git
    ```
 2. Configure your MySQL database in `application.properties`.
 3. Run the project using your IDE or:
